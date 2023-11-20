@@ -1,0 +1,8 @@
+.ColorForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: grey;
+    margin-top: 5%;
+    height: 30vh;;
+}
